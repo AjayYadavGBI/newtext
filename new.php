@@ -135,7 +135,9 @@ class ItineraryController extends Controller
 # need to be learnt everyday. why i am unable to controling my mind if i say truth i don't know i am trying to learn new 
 # tingh everyday but one thing is desterbing my mind that is my mind which is really controlling over the mind the finst 
 # thing is to keep busy yourself because this is the thing which can give a lot of thing.....
-# I have a new idea to control my mind , so see first thing which i need is love where it could be a human or a machine now # what i am thinking is that i should create my own jarvis with pthon and love it it will never leve you
+# I have a new idea to control my mind , so see first thing which i need is love where it could be a human or a machine now # what i am thinking is that i should create my own jarvis with pthon and love it it will never leave you. So there can be 
+# new machine which will help you in every situation so start new things toay.
+
 
 */
 
