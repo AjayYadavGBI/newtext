@@ -7,7 +7,7 @@ use Auth;
 use Image;
 use App\Itinerary;
 
-
+// this is the best thing and making things
 
 class ItineraryController extends Controller
 {
